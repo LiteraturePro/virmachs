@@ -4,8 +4,6 @@
 
 The webapp is deployed My Server here - https://virmach.gq
 
-The webapp is deployed Flyio here - https://virmach.fly.dev/
-
 The webapp is deployed Heroku here - https://virmach.herokuapp.com/
 
 The webapp is deployed Divio here - https://virmach.us.aldryn.io/
