@@ -1,0 +1,7 @@
+{
+  "name": "Virmach活动监控",
+  "description": "Virmach黑五活动的简易版监控，Heroku平台托管",
+  "repository": "https://github.com/LiteraturePro/virmach/",
+  "logo": "https://virmach.app/assets/logo.png",
+  "keywords": ["python", "virmach", "mongodb"]
+}
