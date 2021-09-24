@@ -24,6 +24,6 @@ The webapp is deployed Okteto here - https://vir-literaturepro.cloud.okteto.net/
 ####  源码：Flask、Docker都行，随你
 
 #### Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LiteraturePro/virmach)
 
 # Nothing
