@@ -13,7 +13,7 @@ import json_tools
 app = Flask(__name__)
 
 # 新建数据库链接
-mongo_client = pymongo.MongoClient("mongodb://literature:yxl981204@leanote-shard-00-00.sxaqe.mongodb.net:27017,leanote-shard-00-01.sxaqe.mongodb.net:27017,leanote-shard-00-02.sxaqe.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-11r758-shard-0&authSource=admin&retryWrites=true&w=majority")
+# mongo_client = pymongo.MongoClient("mongodb://xxxxxx:xxxxxx@leanote-shard-00-00.sxaqe.mongodb.net:27017,leanote-shard-00-01.sxaqe.mongodb.net:27017,leanote-shard-00-02.sxaqe.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-11r758-shard-0&authSource=admin&retryWrites=true&w=majority")
 
 # 判断是否连接成功
 # print(mongo_client.server_info())
